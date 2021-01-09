@@ -1,0 +1,48 @@
+<irplus>
+ <device manufacturer="" model="INTEX  IT-465 SUF" columns="12" format="WINLIRC_NEC1">
+  <button label="&#61457;" labelSize="18.0" span="4" backgroundColor="FFC84334">0x807F 0x807F</button>
+  <button label="2.1CH" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x18E7</button>
+  <button label="5.1CH" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x48B7</button>
+  <button label="&#1045518;" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0x00FF</button>
+  <button label="&#1045675;" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0xE01F</button>
+  <button label="&#1045676;" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0x609F</button>
+  <button label="EQ" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0x20DF</button>
+  <button label="&#1045723;" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0xD02F</button>
+  <button label="REPEAT" labelSize="18.0" span="4" backgroundColor="FFC6C6C6">0x807F 0x50AF</button>
+  <button label="FRONT +" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x10EF</button>
+  <button label="CENT +" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0xF00F</button>
+  <button label="REAR +" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x708F</button>
+  <button label="FRONT -" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0xC23D</button>
+  <button label="CENT -" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0xC837</button>
+  <button label="REAR -" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x906F</button>
+  <button label="DVD" labelSize="18.0" span="6" backgroundColor="FF939393">0x807F 0x5AA5</button>
+  <button label="USB" labelSize="18.0" span="6" backgroundColor="FF939393">0x807F 0x728D</button>
+  <button label="AUX" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0xDA25</button>
+  <button label="VOL +" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x807F 0xE817</button>
+  <button label="SD" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x6897</button>
+  <button label="SW -" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x807F 0x42BD</button>
+  <button label="MUTE" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x807F 0xA857</button>
+  <button label="SW +" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x807F 0x827D</button>
+  <button label="TUNE +" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0xB04F</button>
+  <button label="VOL -" labelSize="18.0" span="4" backgroundColor="FF4242FF">0x807F 0x58A7</button>
+  <button label="CH +" labelSize="18.0" span="4" backgroundColor="FF939393">0x807F 0x609F</button>
+  <button label="TUNE -" labelSize="18.0" span="6" backgroundColor="FF939393">0x807F 0x28D7</button>
+  <button label="CH -" labelSize="18.0" span="6" backgroundColor="FF939393">0x807F 0xE01F</button>
+  <button label="AUTO" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x8A75</button>
+  <button label="ST/MO" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x4AB5</button>
+  <button label="MEM" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xCA35</button>
+  <button label="FM" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x2AD5</button>
+  <button label="1" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xAA55</button>
+  <button label="2" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807f 0x6a95</button>
+  <button label="3" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xEA15</button>
+  <button label="4" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x08F7</button>
+  <button label="5" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xC03F</button>
+  <button label="6" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x38C7</button>
+  <button label="7" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x30CF</button>
+  <button label="8" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xF807</button>
+  <button label="9" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x22DD</button>
+  <button label="0" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xA25D</button>
+  <button label="10+" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0x629D</button>
+  <button label="RESET" labelSize="18.0" span="3" backgroundColor="FFC6C6C6">0x807F 0xE21D</button>
+ </device>
+</irplus>
